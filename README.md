@@ -1,2 +1,2 @@
 # bilibili-sync
-测试中...
+A video synchronization viewing webpage based on single-end deployment
